@@ -45,7 +45,7 @@
     "babel-jest": "^27.4.6",
     "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-jest": "^26.1.0",
     "husky": "^7.0.4",
     "jest": "^27.4.7",
     "jest-extended": "^1.2.0",
