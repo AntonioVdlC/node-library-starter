@@ -1,4 +1,6 @@
-import add from "../src/index.ts";
+import { describe, it, expect } from "vitest";
+
+import add from "../src";
 
 describe("add", () => {
   it("is a function", () => {
